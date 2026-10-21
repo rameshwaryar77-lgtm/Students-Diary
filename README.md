@@ -31,19 +31,6 @@ Prerequisites
 
 You only need a modern web browser. No additional software or dependencies are required to run the project locally.
 
-Installation
-
-1. Clone the repository:
-   
-   git clone https://github.com/YOUR-USERNAME/smart-student-productivity-dashboard.git
-
-2. Navigate to the project folder:
-   
-   cd smart-student-productivity-dashboard
-
-3. Open "index.html" in your web browser.
-   
-   Alternatively, open the project in Visual Studio Code and use the Live Server extension.
 
 📁 Project Structure
 
@@ -85,12 +72,5 @@ The goal of this project is to provide students with a simple, user-friendly pla
 - Data export and backup functionality
 - Enhanced analytics and study reports
 
-👨‍💻 Author
-
-Your Name
-
-- GitHub: "@YOUR-USERNAME" (https://github.com/YOUR-USERNAME)
-
----
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub!
